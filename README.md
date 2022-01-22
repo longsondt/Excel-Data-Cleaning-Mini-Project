@@ -8,6 +8,6 @@ The datasets are about Melbourne housing information, which was created in 2017,
 Without going into details, the cleaning operations that were performed includes: 
 * Spell checking
 * Removing duplicate rows
-* Removing extra space and non printing characters
+* Removing extra space and non printing characters with TRIM and CLEAN
 * Applied number/custom formatting to monterary values or numbers
 * Modify entire column values by using advanced functions such as CONCAT 
