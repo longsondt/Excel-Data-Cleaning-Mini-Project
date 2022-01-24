@@ -1,6 +1,8 @@
 ## Introduction
-The goal of this project is to demonstrate my ability to use Excel tools and advanced functions to perform data cleaning. There are two datasets in this project. For each dataset, I have included the original file, as well as a CLEANED version. I have also included a *Notes* file that contain a URL to the data source, and specific details of 
-the cleaning operations that were done to the dataset. 
+The goal of this project is to demonstrate my ability to use Excel tools and advanced functions to perform data cleaning. There are two datasets in this project. For each dataset, I have included the original file, as well as a CLEANED version.
+
+Two *Notes* file that contain the URL to the data source, and specific details of 
+the cleaning operations that were done to each dataset have also been included. 
 
 ## Quick Summary 
 The datasets are about Melbourne housing information, which was created in 2017, and another one about trending Youtube videos in the U.S, which was last updated in 2018. 
